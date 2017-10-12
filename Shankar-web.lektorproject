@@ -1,3 +1,14 @@
 [project]
 name = Shankar-web
 
+
+[packages]
+lektor-netlify = 0.1
+
+[servers.production]
+name = Production
+target = netlify://shankar-web.netlify.com/
+key = c229422a44e7ed60eb0e2ab2da06242073c41e49b30688c3f517c13d745e812a 
+
+
+
