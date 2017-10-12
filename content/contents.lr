@@ -1,0 +1,33 @@
+title: LOREM IPSUM NAME
+---
+body:
+
+<img src="compressed_shankar.jpg" class="container  section image" style="max-width: 90%; height: auto;" alt="screenshot of the admin">
+
+This is a basic demo website that shows how to use Lektor for a basic
+website with some pages and a blog.
+
+Mauris rhoncus, tortor id varius scelerisque, quam velit vehicula mauris, accumsan volutpat quam ex at ex. Duis pharetra rutrum lorem ac feugiat. Pellentesque rutrum sem quis scelerisque porta. Curabitur orci purus, dignissim vitae lorem vel, suscipit viverra orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque convallis erat eget est ornare, non gravida neque malesuada. Integer ut odio nisl. Integer maximus sollicitudin eros at cursus. Nullam non metus est. Maecenas ut hendrerit nisl. Suspendisse eu enim vitae nisl dictum fringilla.
+
+
+Here's our logo (hover to see the title text):
+
+```
+content/
+  contents.lr
+  projects/
+    contents.lr
+    project-a/
+      contents.lr
+      thumbnail.png
+    project-b/
+      contents.lr
+      thumbnail.png
+    project-c/
+      contents.lr
+      thumbnail.png
+```
+
+Proin bibendum libero sapien, laoreet tristique erat dapibus at. Nunc rhoncus facilisis sem a iaculis. Ut erat nunc, vulputate vitae commodo sed, elementum ac odio. Morbi volutpat porttitor libero, venenatis finibus nibh auctor vitae. Nam efficitur hendrerit aliquam. Nulla aliquam tincidunt dignissim. Etiam sollicitudin facilisis purus, sit amet mattis turpis feugiat at. Proin sodales felis ut laoreet placerat. Morbi vel venenatis libero, ac mollis ex. Vestibulum tempor arcu sodales luctus posuere.
+
+

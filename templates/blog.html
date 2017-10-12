@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% from "macros/blog.html" import render_blog_post %}
+{% from "macros/pagination.html" import render_pagination %}
+{% block title %} {{this.title}} {% endblock %}
+{% block body %}
+    
+<div class="tile is-child section box content" > 
+
+    {% for child in this.pagination.items %}
+        <div class="section">
+            {{render_blog_post(child, from_index=true)}}
+        </div>
+    {% endfor %}
+
+
+    <div class="section">
+        {{ render_pagination(this.pagination) }}
+    </div>        
+<div>
+
+{% endblock %}
