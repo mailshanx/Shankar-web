@@ -11,11 +11,11 @@
   <body>
  
 
-<section class="section container">
+<section class="container content">
   <div class="tile is-ancestor ">
     <div class="tile is-parent is-vertical">
       <!--Navbar goes here (top tile) -->
-      <div class="tile is-child section box">
+      <div class="tile is-child section">
          <!--Navbar -->
         <h1 class="title"> <a href="{{ '/' | url}}">LOREM IPSUM NAME</a> </h1>
         <nav class="navbar is-primary" role="navigation" aria-label="main navigation">
@@ -33,7 +33,7 @@
         </nav>
       </div>
     
-    <div class="content">
+    <div>
       {% block body %}{% endblock %}  
     </div>
     

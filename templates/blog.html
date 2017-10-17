@@ -4,10 +4,10 @@
 {% block title %} {{this.title}} {% endblock %}
 {% block body %}
     
-<div class="tile is-child section box content" > 
+<div class="tile is-child" > 
 
     {% for child in this.pagination.items %}
-        <div class="section">
+        <div class="box">
             {{render_blog_post(child, from_index=true)}}
         </div>
     {% endfor %}
