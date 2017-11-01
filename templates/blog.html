@@ -7,7 +7,7 @@
 <div class="tile is-child" > 
 
     {% for child in this.pagination.items %}
-        <div class="box">
+        <div class="">
             {{render_blog_post(child, from_index=true)}}
         </div>
     {% endfor %}
