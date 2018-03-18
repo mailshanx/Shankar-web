@@ -2,7 +2,7 @@ title:
 ---
 body:
 
-<img src="shankar_cover.jpg" class="container  section image" style="max-width: 100%; height: auto;" alt="screenshot of the admin">
+<img src="compressed_shankar.jpg" class="container  section image" style="max-width: 100%; height: auto;" alt="screenshot of the admin">
 
 This is a basic demo website that shows how to use Lektor for a basic
 website with some pages and a blog.
