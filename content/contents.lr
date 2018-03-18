@@ -2,6 +2,22 @@ title:
 ---
 body:
 
+<div class="columns">
+  <div class="column">
+    <img src="compressed_shankar.jpg" class="container  section image" style="max-width: 80%; height: auto;" alt="screenshot of the admin">
+  </div>
+  <div class="column">
+
+This is a basic demo website that shows how to use Lektor for a basic
+website with some pages and a blog.
+
+
+Mauris rhoncus, tortor id varius scelerisque, quam velit vehicula mauris, accumsan volutpat quam ex at ex. Duis pharetra rutrum lorem ac feugiat. Pellentesque rutrum sem quis scelerisque porta. Curabitur orci purus, dignissim vitae lorem vel, suscipit viverra orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque convallis erat eget est ornare, non gravida neque malesuada. Integer ut odio nisl. Integer maximus sollicitudin eros at cursus. Nullam non metus est. Maecenas ut hendrerit nisl. Suspendisse eu enim vitae nisl dictum fringilla.
+  </div>
+
+
+</div>
+
 <img src="compressed_shankar.jpg" class="container  section image" style="max-width: 70%; height: auto;" alt="screenshot of the admin">
 
 This is a basic demo website that shows how to use Lektor for a basic
